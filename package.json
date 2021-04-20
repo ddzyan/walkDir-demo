@@ -1,5 +1,5 @@
 {
-  "name": "walk-dir",
+  "name": "walk-dir-lib",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
