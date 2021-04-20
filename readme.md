@@ -21,8 +21,16 @@
 
 ## 使用
 
+### 安装
+
+```shell
+npm i walk-dir-lib --save
+```
+
+### 示例
+
 ```js
-const walk = require('walkdir');
+const walk = require('walk-dir-lib');
 
 //异步回调
 walk('../', function (path, stat) {
